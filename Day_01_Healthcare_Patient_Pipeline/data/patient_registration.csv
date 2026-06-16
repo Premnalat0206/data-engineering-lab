@@ -1,0 +1,26 @@
+patient_id,patient_name,age,gender,city,registration_date,department,consultation_fee
+P101,Amit Sharma,34,Mumbai,Pune,2025-07-01,Cardiology,1200
+P102,Priya Patil,28,Female,Mumbai,2025-07-01,Dermatology,800
+P103,Rahul Singh,45,Male,Nagpur,2025-07-02,Orthopedics,1500
+P104,Sneha Jain,31,Female,Pune,2025-07-02,Cardiology,1200
+P105,Arjun Mehta,52,Male,Mumbai,2025-07-03,Neurology,1800
+P106,Karan Shah,25,Male,Ahmedabad,2025-07-03,Dermatology,900
+P107,Neha Verma,29,Female,Delhi,2025-07-04,Cardiology,1300
+P108,Rohit Patil,40,Male,Pune,2025-07-04,Orthopedics,1400
+P109,,38,Male,Mumbai,2025-07-05,Neurology,1700
+P110,Anjali Gupta,27,Female,Delhi,2025-07-05,Dermatology,850
+P111,Vikas Rao,60,Male,Bangalore,2025-07-06,Cardiology,1600
+P112,Meera Joshi,22,Female,Pune,2025-07-06,Dermatology,700
+P113,Sachin Kulkarni,44,Male,Nagpur,2025-07-07,Orthopedics,1450
+P114,Kavita Sharma,36,Female,Mumbai,2025-07-07,Neurology,1750
+P115,Ramesh Patel,50,Male,Ahmedabad,2025-07-08,Cardiology,1550
+P116,Pooja Singh,30,Female,Pune,2025-07-08,Dermatology,950
+P117,Ajay Verma,41,Male,Delhi,2025-07-09,Orthopedics,1350
+P118,Sunita Rao,55,Female,Bangalore,2025-07-09,Neurology,1850
+P119,Deepak Jain,47,Male,Nagpur,2025-07-10,Cardiology,1500
+P120,Rekha Patil,26,Female,Pune,2025-07-10,Dermatology,800
+P120,Rekha Patil,26,Female,Pune,2025-07-10,Dermatology,800
+P122,Vinay Shah,-5,Male,Ahmedabad,2025-07-11,Cardiology,1400
+P123,Shweta Gupta,33,Female,Delhi,2025-07-11,Neurology,1900
+P124,Nitin Rao,39,Male,Bangalore,2025-07-12,Orthopedics,1500
+P125,Aarti Jain,24,Female,Nagpur,2025-07-12,Dermatology,750
