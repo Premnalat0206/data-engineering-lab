@@ -1,0 +1,12 @@
+employee_id,department_id,designation,salary,status
+E101,D01,Data Engineer,70000,ACTIVE
+E102,D02,HR Executive,50000,ACTIVE
+E103,D01,Data Engineer,90000,ACTIVE
+E104,D03,Finance Analyst,65000,ACTIVE
+E105,D04,Software Engineer,80000,ACTIVE
+E106,D01,Data Engineer,72000,ACTIVE
+E107,D02,HR Manager,85000,ACTIVE
+E108,D04,Senior Software Engineer,110000,ACTIVE
+E109,D03,Finance Manager,105000,ACTIVE
+E110,D01,Data Architect,140000,ACTIVE
+E130,D04,Software Engineer,75000,ACTIVE

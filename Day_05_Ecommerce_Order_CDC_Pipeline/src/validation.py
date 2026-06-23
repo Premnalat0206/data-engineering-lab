@@ -1,8 +1,8 @@
 from pyspark.sql.functions import *
 
-def validate_customer(customer_df,daily_order_df):
+def validate_customer(customer_df,daily_shipments_df):
 
-    validate_df = daily_order_df.join(customer_df,on="customer_id",how="left")
+    validate_df = daily_shipments_df.join(customer_df,on="customer_id",how="left")
 
     validate_df = validate_df.withColumn("customer_reason",
                                         when(col("customer_name").isNull(),"INVALID_CUSTOMER")

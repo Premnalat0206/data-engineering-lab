@@ -1,0 +1,26 @@
+employee_id,employee_name,department_id,designation,joining_date,salary,status
+E101,Amit Sharma,D01,Data Engineer,2024-01-10,70000,ACTIVE
+E102,Priya Patil,D02,HR Executive,2023-06-15,50000,ACTIVE
+E103,Rahul Singh,D01,Senior Data Engineer,95000,2022-03-20,ACTIVE
+E104,Sneha Jain,D03,Finance Analyst,65000,2023-09-01,ACTIVE
+E105,Arjun Mehta,D04,Software Engineer,80000,2024-02-05,ACTIVE
+E106,Karan Shah,D01,Data Engineer,72000,2024-03-12,ACTIVE
+E107,Neha Verma,D02,HR Manager,85000,2021-08-18,ACTIVE
+E108,Rohit Patil,D04,Senior Software Engineer,110000,2020-05-11,ACTIVE
+E109,Pooja Gupta,D03,Finance Manager,105000,2019-11-21,ACTIVE
+E110,Vikas Rao,D01,Data Architect,140000,2018-07-09,ACTIVE
+E111,Anjali Kulkarni,D04,Software Engineer,78000,2024-04-10,ACTIVE
+E112,Deepak Jain,D03,Finance Analyst,62000,2023-01-14,ACTIVE
+E113,Sunita Patil,D02,HR Executive,52000,2024-01-25,ACTIVE
+E114,Nitin Shah,D01,Data Engineer,73000,2024-02-01,ACTIVE
+E115,Meera Joshi,D04,Software Engineer,76000,2024-05-01,ACTIVE
+E116,Sachin Rao,D03,Finance Analyst,61000,2023-10-01,ACTIVE
+E117,Kavita Sharma,D01,Data Engineer,71000,2024-04-20,ACTIVE
+E118,Ajay Gupta,D04,Software Engineer,79000,2024-05-15,ACTIVE
+E119,Rekha Patil,D02,HR Executive,51000,2024-02-20,ACTIVE
+E120,Vinay Singh,D03,Finance Analyst,63000,2024-01-05,ACTIVE
+E121,Unknown User,D99,Data Engineer,2024-03-01,70000,ACTIVE
+E122,Test User,D01,Data Engineer,2024-03-01,-5000,ACTIVE
+E123,Demo User,D02,HR Executive,2024-03-01,45000,UNKNOWN
+E124,New Employee,D04,Software Engineer,2025-01-01,85000,ACTIVE
+E125,Lead Engineer,D01,Lead Data Engineer,120000,2023-02-01,ACTIVE
