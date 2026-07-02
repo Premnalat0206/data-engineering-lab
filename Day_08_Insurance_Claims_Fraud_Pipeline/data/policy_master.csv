@@ -1,0 +1,6 @@
+policy_id,policy_type,max_coverage
+P001,Medical,500000
+P002,Vehicle,300000
+P003,Home,400000
+P004,Medical,700000
+P005,Vehicle,350000
